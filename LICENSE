@@ -1,5 +1,29 @@
 MIT License
 
+# Link Kısaltıcı
+
+Bu proje, kullanıcıdan alınan uzun URL'yi TinyURL API kullanarak kısaltır ve sonucu kullanıcıya gösterir.
+
+## Kurulum
+
+1. Bu repoyu klonlayın veya indirin.
+2. `index.php` dosyasını açın ve `API'nizi buraya girin` kısmına kendi TinyURL API anahtarınızı ekleyin.
+
+## Kullanım
+
+1. Web sunucunuzda `index.php` dosyasını çalıştırın.
+2. Uzun URL'yi girin ve "Kısalt" butonuna tıklayın.
+3. Kısaltılmış URL'yi görün.
+
+## Gereksinimler
+
+- PHP 5.6 veya üstü
+- cURL kütüphanesi
+
+## Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır.
+
 Copyright (c) 2024 Kemal Ege Aktemur
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
